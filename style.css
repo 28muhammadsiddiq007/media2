@@ -1,0 +1,7 @@
+.cointainer {
+    display: flex;
+}
+
+.text {
+    margin: 20px;
+}
